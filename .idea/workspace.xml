@@ -223,20 +223,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574406003525</updated>
-      <workItem from="1574406006286" duration="2871000" />
+      <workItem from="1574406006286" duration="3053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2871000" />
+    <option name="totallyTimeSpent" value="3053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15964173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13487881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
